@@ -1,3 +1,7 @@
+# Adı Soyadı: Simagül Biçer
+# Öğrenci No: 36342517
+# Ders: Derin Öğrenme - Perceptron Ödevi
+
 # Girdi matrisi (X) ve AND kapısı için hedef çıktılar (y)
 X = [[0, 0], [0, 1], [1, 0], [1, 1]]
 y = [0, 0, 0, 1]
